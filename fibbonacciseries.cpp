@@ -1,3 +1,5 @@
+//This program prints fibbonacci series till nth number
+
 #include <iostream>
 using namespace std;
 void fib(int n){
